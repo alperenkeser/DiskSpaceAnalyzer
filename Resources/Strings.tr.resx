@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="ScanButtonText" xml:space="preserve">
+    <value>Taramayı Başlat</value>
+  </data>
+  <data name="StatusScanning" xml:space="preserve">
+    <value>Taranıyor...</value>
+  </data>
+  <data name="StatusCompleted" xml:space="preserve">
+    <value>Tarama tamamlandı</value>
+  </data>
+  <data name="StatusCancelled" xml:space="preserve">
+    <value>Tarama iptal edildi</value>
+  </data>
+  <data name="StatusError" xml:space="preserve">
+    <value>Hata oluştu: {0}</value>
+  </data>
+  <data name="DriveInfoTitle" xml:space="preserve">
+    <value>Sürücü Bilgisi</value>
+  </data>
+  <data name="TotalSize" xml:space="preserve">
+    <value>Toplam Boyut</value>
+  </data>
+  <data name="UsedSpace" xml:space="preserve">
+    <value>Kullanılan Alan</value>
+  </data>
+  <data name="FreeSpace" xml:space="preserve">
+    <value>Boş Alan</value>
+  </data>
+  <data name="UsagePercentage" xml:space="preserve">
+    <value>Kullanım Yüzdesi</value>
+  </data>
+  <data name="LargestFoldersTitle" xml:space="preserve">
+    <value>En Büyük Klasörler</value>
+  </data>
+  <data name="FolderName" xml:space="preserve">
+    <value>Klasör Adı</value>
+  </data>
+  <data name="FolderSize" xml:space="preserve">
+    <value>Boyut</value>
+  </data>
+  <data name="FileCount" xml:space="preserve">
+    <value>Dosya Sayısı</value>
+  </data>
+  <data name="FolderCount" xml:space="preserve">
+    <value>Klasör Sayısı</value>
+  </data>
+  <data name="LastModified" xml:space="preserve">
+    <value>Son Değişiklik</value>
+  </data>
+  <data name="InstalledApplicationsTitle" xml:space="preserve">
+    <value>Yüklenmiş Uygulamalar</value>
+  </data>
+  <data name="ApplicationName" xml:space="preserve">
+    <value>Uygulama Adı</value>
+  </data>
+  <data name="Publisher" xml:space="preserve">
+    <value>Yayıncı</value>
+  </data>
+  <data name="Version" xml:space="preserve">
+    <value>Sürüm</value>
+  </data>
+  <data name="InstallLocation" xml:space="preserve">
+    <value>Yükleme Konumu</value>
+  </data>
+  <data name="InstallDate" xml:space="preserve">
+    <value>Yükleme Tarihi</value>
+  </data>
+  <data name="CleanupSuggestionsTitle" xml:space="preserve">
+    <value>Temizlik Önerileri</value>
+  </data>
+  <data name="Reason" xml:space="preserve">
+    <value>Neden</value>
+  </data>
+  <data name="Size" xml:space="preserve">
+    <value>Boyut</value>
+  </data>
+  <data name="OpenInExplorer" xml:space="preserve">
+    <value>Keşfet</value>
+  </data>
+  <data name="CancelScan" xml:space="preserve">
+    <value>İptal Et</value>
+  </data>
+  <data name="StartScan" xml:space="preserve">
+    <value>Taramayı Başlat</value>
+  </data>
+</root>

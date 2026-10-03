@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <data name="ScanButtonText" xml:space="preserve">
+    <value>Start Scan</value>
+  </data>
+  <data name="StatusScanning" xml:space="preserve">
+    <value>Scanning...</value>
+  </data>
+  <data name="StatusCompleted" xml:space="preserve">
+    <value>Scan completed</value>
+  </data>
+  <data name="StatusCancelled" xml:space="preserve">
+    <value>Scan cancelled</value>
+  </data>
+  <data name="StatusError" xml:space="preserve">
+    <value>Error occurred: {0}</value>
+  </data>
+  <data name="DriveInfoTitle" xml:space="preserve">
+    <value>Drive Information</value>
+  </data>
+  <data name="TotalSize" xml:space="preserve">
+    <value>Total Size</value>
+  </data>
+  <data name="UsedSpace" xml:space="preserve">
+    <value>Used Space</value>
+  </data>
+  <data name="FreeSpace" xml:space="preserve">
+    <value>Free Space</value>
+  </data>
+  <data name="UsagePercentage" xml:space="preserve">
+    <value>Usage Percentage</value>
+  </data>
+  <data name="LargestFoldersTitle" xml:space="preserve">
+    <value>Largest Folders</value>
+  </data>
+  <data name="FolderName" xml:space="preserve">
+    <value>Folder Name</value>
+  </data>
+  <data name="FolderSize" xml:space="preserve">
+    <value>Size</value>
+  </data>
+  <data name="FileCount" xml:space="preserve">
+    <value>File Count</value>
+  </data>
+  <data name="FolderCount" xml:space="preserve">
+    <value>Folder Count</value>
+  </data>
+  <data name="LastModified" xml:space="preserve">
+    <value>Last Modified</value>
+  </data>
+  <data name="InstalledApplicationsTitle" xml:space="preserve">
+    <value>Installed Applications</value>
+  </data>
+  <data name="ApplicationName" xml:space="preserve">
+    <value>Application Name</value>
+  </data>
+  <data name="Publisher" xml:space="preserve">
+    <value>Publisher</value>
+  </data>
+  <data name="Version" xml:space="preserve">
+    <value>Version</value>
+  </data>
+  <data name="InstallLocation" xml:space="preserve">
+    <value>Install Location</value>
+  </data>
+  <data name="InstallDate" xml:space="preserve">
+    <value>Install Date</value>
+  </data>
+  <data name="CleanupSuggestionsTitle" xml:space="preserve">
+    <value>Cleanup Suggestions</value>
+  </data>
+  <data name="Reason" xml:space="preserve">
+    <value>Reason</value>
+  </data>
+  <data name="Size" xml:space="preserve">
+    <value>Size</value>
+  </data>
+  <data name="OpenInExplorer" xml:space="preserve">
+    <value>Explore</value>
+  </data>
+  <data name="CancelScan" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="StartScan" xml:space="preserve">
+    <value>Start Scan</value>
+  </data>
+</root>
