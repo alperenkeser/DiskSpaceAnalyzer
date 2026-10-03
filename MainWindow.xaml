@@ -10,6 +10,7 @@
         MinWidth="850"
         MinHeight="600"
         Background="#F4F6F9"
+        Icon="pack://application:,,,/Resources/AppIcon.ico"
         FontFamily="Segoe UI"
         Foreground="#1F2937">
     <Window.Resources>
