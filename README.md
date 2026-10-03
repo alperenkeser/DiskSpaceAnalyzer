@@ -6,7 +6,7 @@ A lightweight Windows desktop application for exploring disk usage, reviewing in
 
 Download the standalone Windows x64 executable from the [latest release](https://github.com/alperenkeser/DiskSpaceAnalyzer/releases/latest):
 
-[Download DiskAlanAnaliz.exe](https://github.com/alperenkeser/DiskSpaceAnalyzer/releases/download/v0.1.0/DiskAlanAnaliz.exe)
+[Download DiskAlanAnaliz.exe](https://github.com/alperenkeser/DiskSpaceAnalyzer/releases/latest/download/DiskAlanAnaliz.exe)
 
 The .NET runtime is included; no separate .NET installation is required.
 
