@@ -2,6 +2,14 @@
 
 A lightweight Windows desktop application for exploring disk usage, reviewing installed applications, and identifying cleanup candidates. The user interface is currently in Turkish.
 
+## Download
+
+Download the standalone Windows x64 executable from the [latest release](https://github.com/alperenkeser/DiskSpaceAnalyzer/releases/latest):
+
+[Download DiskAlanAnaliz.exe](https://github.com/alperenkeser/DiskSpaceAnalyzer/releases/download/v0.1.0/DiskAlanAnaliz.exe)
+
+The .NET runtime is included; no separate .NET installation is required.
+
 ## Features
 
 - Scan a selected drive and list the largest folders.
